@@ -1,0 +1,39 @@
+.carousel-item{
+    height: 450px;
+}
+.navbar{
+    background-color: rgb(0, 109, 15); height: 95px
+}
+.navbar-brand{
+    font-weight: bolder; font-size: xx-large; 
+}
+.nav-link{font-size: x-large;
+ 
+}
+.collapse{
+    background-color: bisque; text-align: center; margin-bottom: 44px; padding: 20px; margin-top: 48px; margin-left: 0;
+}
+#home{
+background-color: aqua;
+}
+#features{
+background-color: blue;
+}
+#new{
+background-color: aquamarine;
+}
+#pricing{
+background-color: blueviolet;
+}
+p{
+    height: 100vh;
+}
+.sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+   
+  }
+  h1{
+      font-weight: bolder; padding: 20px; color: burlywood; font-size: xx-large;
+  }
