@@ -13,21 +13,9 @@
 .collapse{
     background-color: bisque; text-align: center; margin-bottom: 44px; padding: 20px; margin-top: 48px;; width: 100vw
 }
-#home{
-background-color: aqua;
-}
-#features{
-background-color: blue;
-}
-#new{
-background-color: aquamarine;
-}
-#pricing{
-background-color: blueviolet;
-}
-p{
-    height: 100vh;
-}
+
+
+
 .sticky {
     position: sticky;
     top: 0;
@@ -37,3 +25,15 @@ p{
   h1{
       font-weight: bolder; padding: 20px; color: burlywood; font-size: xx-large;
   }
+  .margin{
+    margin: 0;
+  }
+  .WE{
+    width: 500px;}
+    #row{
+        text-align: center; background-color: beige;
+    }
+    
+    .col-sm{
+        text-align: center; font-size: xx-large;
+    }
